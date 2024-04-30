@@ -14,3 +14,8 @@ const nums = [-1,2,1,-4]
 
 
 const target=1
+
+
+for(let i =0; i< nums.length; i++){
+    console.log(i)
+}
